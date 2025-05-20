@@ -1,0 +1,18 @@
+Project Title: Li-Fi Powered Smart Headlight
+
+Description:
+This project implements a smart headlight system using Li-Fi communication and an Arduino board. 
+The system dynamically detects light signals from oncoming vehicles and automatically adjusts the vehicle's headlight intensity to reduce glare and improve road safety at night.
+The use of Li-Fi ensures fast, interference-free communication through visible light, eliminating the need for RF-based components.
+
+Key Features:
+
+Li-Fi based light signal detection
+
+Automatic headlight dimming to prevent glare
+
+Real-time responsiveness
+
+Arduino-based integration for control logic
+
+Cost-effective and energy-efficient solution
